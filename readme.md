@@ -15,7 +15,7 @@ I build high-performance, secure, and scalable web ecosystems. Currently special
 | :--- | :--- |
 | **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS |
 | **Backend & Frameworks** | Node.js, Express, Laravel (PHP) |
-| **Databases & Cache** | MongoDB, MariaDB, MySQL, Redis |
+| **Databases & Cache** | MongoDB, MariaDB, MySQL, Redis, postgresql |
 | **Security & Systems** | JWT Authentication, Bcrypt, Secure API Gateways, Linux, Git |
 
 ---
