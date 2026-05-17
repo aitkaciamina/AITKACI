@@ -22,7 +22,7 @@ I build high-performance, secure, and scalable web ecosystems. Currently special
 
 ###  Flagship Projects
 
-#### 1. [NEXUS_LEARN](https://github.com/yourusername/nexus_learn)
+#### 1. [NEXUS_LEARN]([https://github.com/aitkaciamina/NEXUS_LEARN/blob/main/README.md])
 A production-ready, dark-themed learning management subsystem designed to handle secure multi-role authorization, dynamic curriculum mutations, and secure multi-media document streaming.
 * **Stack:** Next.js, Node.js, MongoDB, Nodemailer, TypeScript, Tailwind CSS
 
